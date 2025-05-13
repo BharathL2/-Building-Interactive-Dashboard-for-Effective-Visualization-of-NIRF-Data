@@ -1,6 +1,10 @@
 # NIRF Data Visualization
 
 A comprehensive web application for visualizing and analyzing NIRF (National Institutional Ranking Framework) data from 2016 to 2024.
+<p align="center">
+  <img src="image/main_page.jpg" width="500" alt="Insights Visualization">
+</p>
+
 
 ## Features
 
