@@ -25,6 +25,11 @@ A comprehensive web application for visualizing and analyzing NIRF (National Ins
 - React Router
 - Vite
 
+<p align="center">
+  <img src="image/top_institution_ranking.jpg" width="500" alt="Insights Visualization">
+</p>
+
+
 ## Setup Instructions
 
 1. Clone the repository:
